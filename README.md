@@ -72,6 +72,6 @@ I have been learning my skills in **front-end development**, **c**,**c++** & **J
     <img align="left" alt="Utkarsh Chaurasia | Twitter" width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/twitter.svg" />
   </a>
   
-  <a href="https:https://www.instagram.com/they_call_me.utkarsh/">
+  <a href="https://www.instagram.com/they_call_me.utkarsh/">
     <img align="left" alt="Utkarsh Chaurasia | Instagram" width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/Instagram.svg" />
   </a>
