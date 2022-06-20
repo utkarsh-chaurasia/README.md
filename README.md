@@ -59,19 +59,19 @@ I have been learning my skills in **front-end development**, **c**,**c++** & **J
 
 ## 💬 Let's Connect
     
-<a href="https://www.linkedin.com/in/utkarsh-chaurasia-a4b76a17b/">
+<a href="https://www.linkedin.com/in/utkarsh-chaurasia-5826a91a8/">
     <img align="left" alt="Utkarsh Chaurasia | Linkedin" width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/Linkedin.svg" />
   </a>
   
   
-  <a href="https://medium.com/@utkarsh103b">
+<!--   <a href="https://medium.com/@utkarsh103b">
     <img align="left" alt="Utkarsh Chaurasia | Medium" width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/medium.svg" />
-  </a>
+  </a> -->
   
-  <a href="https://twitter.com/iamuc12?t=cq_s1SIbFxriEQQNnRhV7g&s=09">
+  <a href="https://twitter.com/uttkarsh6">
     <img align="left" alt="Utkarsh Chaurasia | Twitter" width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/twitter.svg" />
   </a>
   
-  <a href="https://www.instagram.com/utkarsh_chaurasia.12/?hl=en">
+  <a href="https:https://www.instagram.com/they_call_me.utkarsh/">
     <img align="left" alt="Utkarsh Chaurasia | Instagram" width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/Instagram.svg" />
   </a>
