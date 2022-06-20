@@ -26,9 +26,9 @@ I have been learning my skills in **front-end development**, **c**,**c++** & **J
    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/java.svg"></code>
    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/c-plusplus.svg"></code>
    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg"></code>
-    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/javascript.svg"></code>
    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/html-5.svg"></code>
-   <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/kubernetes.svg"></code>
+    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/javascript.svg"></code>
+   <code><img height="50" src="https://www.cleanpng.com/png-web-development-cascading-style-sheets-css3-html-1615602/"></code>
    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/openshift.svg"></code>
    <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
    <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/bash-icon.svg"></code>
