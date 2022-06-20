@@ -23,7 +23,7 @@ I have been learning my skills in **front-end development**, **c**,**c++** & **J
 
 <br>
 
-   <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/react.svg"></code>
+   
     <code><img height="50" src="https://github.com/jhipster/jhipster.github.io/blob/master/images/logo/svg/spring-boot.svg"></code>
     <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/django-icon.svg"></code>
      <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/java.svg"></code>
