@@ -6,15 +6,16 @@
 
 ### 👋 ✨ Hi, I'm Utkarsh Chaurasia.
 
+An undergraduate student pursuing my degree in **Information Technology** at the **National Institute of Technology, Raipur**. 
 
-I'm a final year undergrad at SRM University, Chennai pursuing B.Tech in Computer Science Engineering specialization in Big Data Analytics. I'm a **Competitive Coder**, **Web Developer**, **Flutter App Developer** and **Machine Learning Practioner**. I also write blogs on various technical topics.
+I have been learning my skills in **front-end development**, **c**,**c++** & **Java**. Apart from this, I have been active in most events that give me the opportunity to learn and grow. I am always ready to participate in something in which I see an opportunity to learn. I primarily use **C** for practicing **Data Structures and Algorithms** and know python also.
 
-- 🔭 I develop full stack applications using React and Django or Java.
-- 🌱 I develop cross platform mobile apps using Flutter.
-- 👯 If you want a web application or a mobile app for your business idea or startup, then I can help you.
-- 💬 Open for discussion on any Tech Stack(motive is exchange of knowledge). 
-- 📫 How to reach me: utkarsh103b@gmail.com
-- 😄 Pronouns: He/Him.
+- 🧑‍💻 I develop a Stone Paper Scissors game using of HTML, CSS & JAVA SCRYPT.
+- 🎮 I develop Snake & Ladder game using of JAVA.
+- 🧮 I develop a Calculator using of JAVA Swing in GUI. 
+- 🧑‍🎓 I develop a Student Management System using of C++ & File Handling. 
+- 🧮 I develop a Calculator using JAVA Swing in GUI. 
+- 📫 How to reach me: uttkarshchaurasia@gmail.com
 
 <br><br>
 
