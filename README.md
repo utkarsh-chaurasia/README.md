@@ -8,7 +8,7 @@
 
 An undergraduate student pursuing my degree in **Information Technology** at the **National Institute of Technology, Raipur**. 
 
-I have been learning my skills in **front-end development**, **c**, **c++** & **Java**. Apart from this, I have been active in most events that give me the opportunity to learn and grow. I am always ready to participate in something in which I see an opportunity to learn. I primarily use **C** for practicing **Data Structures and Algorithms** and know python also.
+I have been learning my skills in **front-end development**, **C**, **C++** & **Java**. Apart from this, I have been active in most events that give me the opportunity to learn and grow. I am always ready to participate in something in which I see an opportunity to learn. I primarily use **C** for practicing **Data Structures and Algorithms** and know python also.
 
 - 🧑‍💻 I developed a Stone Paper Scissors game using of HTML, CSS & JAVA SCRIPT.
 - 🎮 I developed Snake & Ladder game using of JAVA.
