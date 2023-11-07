@@ -6,9 +6,7 @@
 
 ### 👋 ✨ Hi, I'm Utkarsh Chaurasia.
 
-An undergraduate student pursuing my degree in **Information Technology** at the **National Institute of Technology, Raipur**. 
-
-I have been learning my skills in **front-end development**, **C**, **C++** & **Java**. Apart from this, I have been active in most events that give me the opportunity to learn and grow. I am always ready to participate in something in which I see an opportunity to learn. I primarily use **C** for practicing **Data Structures and Algorithms** and know python also.
+Pursuing an undergraduate degree at the **National Institute of Technology, Raipur**. I am currently in 4th year in the **Information Technology** Branch. Based on my tech stack in Java, C, C++, Python, GUI, HTML, CSS, JS, Express JS, Node JS, React JS, Mongo DB, AI, MS, DL, and some freelancer work as a front-end developer and experience in Deep Learning research Intern I believe I could be a good fit.
 
 
 
